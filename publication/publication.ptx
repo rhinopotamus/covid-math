@@ -15,7 +15,7 @@
       <chunking level="2" />
 
     <!-- Depth for table of contents.  0 means no TOC -->
-      <!--<tableofcontents level="1" />-->
+      <tableofcontents level="2" />
 
     <!-- Visibility of exercise components where they first appear.          -->
     <!-- There are four components (statement/hint/answer/solution) for each -->
@@ -111,6 +111,7 @@
 
   <!-- The embed-button makes it easy to copy the code for an iframe into your LMS -->
   <html embed-button="yes">
+    <index-page ref="schedule" />
 
     <!-- A possible attribute for the html tag above is @short-answer-responses, with values either "always" or "graded".  As in: -->
     <!--<html short-answer-responses="always">-->
@@ -146,9 +147,11 @@
     <!-- See also                                              -->
     <!-- https://pretextbook.org/doc/guide/html/publication-file-online.html#online-style-options -->
     <css
-        theme="denver"
-        primary-color="#386F94"
-        primary-color-dark="#5192BD"
+        theme="default-modern"
+        primary-color="#211551"
+        secondary-color="#8252C7"
+        primary-color-dark="#F1F1DE"
+        secondary-color-dark="#8252C7"
         provide-dark-mode="yes"
     />
 
@@ -158,7 +161,7 @@
 
     <!-- Table of Contents: focused="yes" enables expand/collapse functionality. -->
     <!-- @preexpanded-levels controls how deep to expend toc initially.          -->
-      <!--<toc focused="yes" preexpanded-levels="1" />-->
+      <!-- <toc preexpanded-levels="2" /> -->
 
     <!-- Navigation options: linear or tree, and whether there is an "up" button -->
       <!--<navigation logic="tree" upbutton="no" />-->

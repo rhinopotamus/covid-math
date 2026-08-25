@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="schedule">
+    <title>Schedule of topics</title>
+    <p>
+        This schedule is tentative. We might move things around according to people's needs.
+    </p>
+    <tabular>
+        <row header="yes">
+            <cell>Date</cell>
+            <cell>Topics</cell>
+        </row>
+        <row>
+            <cell>Sep 3</cell>
+            <cell>
+                <line>Terms and factors!</line>
+                <line>The equals sign means two things are the same!</line>
+            </cell>
+        </row>
+        <row>
+            <cell>Sep 10</cell>
+            <cell>
+                <line>Fractions and percents!</line>
+                <line>Numerators, denominators, and <q>canceling</q>!</line>
+            </cell>
+        </row>
+        <row>
+            <cell>Sep 17</cell>
+            <cell>
+                <line>Rules of exponents!</line>
+                <line>Adding, multiplying, and fractions!</line>
+            </cell>
+        </row>
+        <row>
+            <cell>Sep 24</cell>
+            <cell>
+                <line>Logarithms!</line>
+                <line>(The worst name in mathematics!)</line>
+            </cell>
+        </row>
+        <row>
+            <cell>Oct 1</cell>
+            <cell>
+                <line>The many meanings of letters!</line>
+                <line>Variables, constants, parameters, and other tricks!</line>
+            </cell>
+        </row>
+        <row>
+            <cell>Oct 8</cell>
+            <cell>
+                <line>Lines and linear equations!</line>
+                <line>Slope-intercept and point-slope form!</line>
+            </cell>
+        </row>
+        <row>
+            <cell>Oct 15</cell>
+            <cell>
+                <line>Substitution:</line>
+                <line>Replacing something with another thing that's the same!</line>
+            </cell>
+        </row>
+        <row>
+            <cell>Oct 22</cell>
+            <cell><alert>Fall break!</alert></cell>
+        </row>
+        <row>
+            <cell>Oct 29</cell>
+            <cell></cell>
+        </row>
+        <row>
+            <cell>Nov 5</cell>
+            <cell></cell>
+        </row>
+        <row>
+            <cell>Nov 12</cell>
+            <cell></cell>
+        </row>
+        <row>
+            <cell>Nov 19</cell>
+            <cell></cell>
+        </row>
+        <row>
+            <cell>Nov 26</cell>
+            <cell><alert>Thanksgiving!</alert></cell>
+        </row>
+        <row>
+            <cell>Dec 3</cell>
+            <cell></cell>
+        </row>
+        <row>
+            <cell>Dec 10</cell>
+            <cell></cell>
+        </row>
+        <row>
+            <cell>Dec 17</cell>
+            <cell></cell>
+        </row>
+    </tabular>
+</section>
