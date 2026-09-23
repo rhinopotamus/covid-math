@@ -10,7 +10,7 @@
             <cell>Date</cell>
             <cell>Topics</cell>
         </row>
-        <row>
+        <!-- <row>
             <cell>Sep 3</cell>
             <cell>
                 <line>Terms and factors!</line>
@@ -23,7 +23,7 @@
                 <line>The many meanings of letters!</line>
                 <line>Variables, constants, parameters, and other tricks!</line>
             </cell>
-        </row>
+        </row> -->
         <row>
             <cell>Sep 17</cell>
             <cell> <!-- Requested by Jessica Johnston -->
@@ -34,29 +34,32 @@
         <row>
             <cell>Sep 24</cell>
             <cell>
-                <line>Rules of exponents!</line>
-                <line>Adding, multiplying, and fractions!</line>
+                <line>Terms and factors!</line>
+                <line>The equals sign means two things are the same!</line>
             </cell>
+            
         </row>
         <row>
             <cell>Oct 1</cell>
             <cell>
-                <line>Logarithms!</line>
-                <line>(The worst name in mathematics!)</line>
+                <line>Rules of exponents!</line>
+                <line>Adding, multiplying, and fractions!</line>
             </cell>
+            
         </row>
         <row>
             <cell>Oct 8</cell>
             <cell>
-                <line>Fractions and percents!</line>
-                <line>Numerators, denominators, and <q>canceling</q>!</line>
+                <line>Logarithms!</line>
+                <line>(The worst name in mathematics!)</line>
             </cell>
+            
         </row>
         <row>
             <cell>Oct 15</cell>
             <cell>
-                <line>Substitution:</line>
-                <line>Replacing something with another thing that's the same!</line>
+                <line>Fractions and percents!</line>
+                <line>Numerators, denominators, and <q>canceling</q>!</line>
             </cell>
         </row>
         <row>
@@ -65,7 +68,10 @@
         </row>
         <row>
             <cell>Oct 29</cell>
-            <cell></cell>
+            <cell>
+                <line>Substitution:</line>
+                <line>Replacing something with another thing that's the same!</line>
+            </cell>
         </row>
         <row>
             <cell>Nov 5</cell>
