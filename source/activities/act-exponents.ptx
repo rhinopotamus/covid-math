@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="exponents-worksheet">
+<title>Rules of Exponents Activity</title>
+
+<!-- Optional introduction -->
+<introduction>
+    <p>
+        The following is a summary list of all the rules of exponents that we've talked about today. Your job is to write a human-words sentence about each one. I'll give you the first one as an example.
+    </p>
+</introduction>
+<!-- Exercises start here. -->
+<exercise workspace="0.5in">
+    <statement>
+        <p>
+            <md>
+                \square^a \cdot \square^b = \square^{a + b}
+            </md>
+            In human words: when you multiply two powers of the same base, the exponents add.
+        </p>
+    </statement>
+</exercise>
+<exercise workspace="0.5in">
+    <statement>
+        <p>
+            <md>
+                \left(\square^a\right)^b = \square^{a\cdot b}
+            </md>
+            
+        </p>
+    </statement>
+</exercise>
+<exercise workspace="0.5in">
+    <statement>
+        <p>
+            <md>
+                \square^1 = \square
+            </md>
+            
+        </p>
+    </statement>
+</exercise>
+<exercise workspace="0.5in">
+    <statement>
+        <p>
+            <md>
+                \square^0 = 1
+            </md>
+        </p>
+    </statement>
+</exercise>
+<exercise workspace="0.5in">
+    <statement>
+        <p>
+            <md>
+                \dfrac{1}{\square^n} = \square^{-n}
+            </md>
+            
+        </p>
+    </statement>
+</exercise>
+<exercise workspace="0.5in">
+    <statement>
+        <p>
+            <md>
+                \square^{1/n} = \sqrt[n]{\square}
+            </md>
+            
+        </p>
+    </statement>
+</exercise>
+<exercise workspace="0.5in">
+    <statement>
+        <p>
+            <md>
+               (a\cdot b)^n = a^n \cdot b^n 
+            </md>
+            
+        </p>
+    </statement>
+</exercise>
+<exercise workspace="0.5in">
+    <statement>
+        <p>
+            <md>
+                (a+b)^n \neq a^n + b^n
+            </md>
+            
+        </p>
+    </statement>
+</exercise>
+</worksheet>

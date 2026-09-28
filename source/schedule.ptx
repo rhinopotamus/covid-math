@@ -42,7 +42,9 @@
         <row>
             <cell>Oct 1</cell>
             <cell>
-                <line>Rules of exponents!</line>
+                <line>
+                    <xref ref="exponents-worksheet" text="custom">Rules of exponents!</xref>
+                </line>
                 <line>Adding, multiplying, and fractions!</line>
             </cell>
             
