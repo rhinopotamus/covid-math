@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Exponents",
-  "body": " Exponents   Rules of Exponents Activity    The following is a summary list of all the rules of exponents that we've talked about today. Your job is to write a human-words sentence about each one. I'll give you the first one as an example.       In human words: when you multiply two powers of the same base, the exponents add.                                                      "
+  "body": " Exponents   Rules of Exponents Activity    The following is a summary list of all the rules of exponents that we've talked about today. Your job is to write a human-words sentence about each one, and explain why it's true . I'll give you the first human-words sentence as an example.       In human words: when you multiply two powers of the same base, the exponents add.                                                      "
 },
 {
   "id": "exponents-worksheet-3",
